@@ -83,5 +83,7 @@ if __name__ == '__main__':
 
 # run the flask file by using: python3 -m flask run --port=4242
 
+# Run the command where the stripe app is installed
+
 # For running webhook first install stripe cli: https://stripe.com/docs/stripe-cli   and use ./stripe instead of stripe
 # For using stripe CLI see the commands : https://dashboard.stripe.com/test/webhooks/create?endpoint_location=local
